@@ -1,0 +1,6 @@
+com\soccerLeagueMadrid\web\JAXRActivator.class
+com\soccerLeagueMadrid\RestService\EquipoServiceImpl.class
+com\soccerLeagueMadrid\data\EquipoDAOImpl.class
+com\soccerLeagueMadrid\data\EquipoDAO.class
+com\soccerLeagueMadrid\web\CorsFilter.class
+com\soccerLeagueMadrid\model\Equipo.class
